@@ -1,1 +1,22 @@
-# AmanGNDEC.github.io
+# About me:-
+Hello everyone, myself **Amanveer Singh**, I am eighteen years old. I have completed my 12 from Saint Ann College, Lakhimpur kheri district in Uttar Pradesh.
+My School is ICSE based. My 12 overall percentage is **92%**. My hobbies are cooking and spending quality times with my friends. I have persued Btech Computer Science in
+Guru Nanak Dev Enginnering College, Ludiana.I was the **Head Boy** of my school.
+
+<img align="right" src="https://github.com/user-attachments/assets/bc9b90f4-c078-4ad4-8c83-25fe38489b9c" height="300">
+
+
+
+
+###### | Class 12
+
+|  Subjects    |Marks out of 100|
+|--------------|----------------|
+|  English     |    82          |
+|  Mathematics |    95          |
+|  Computer    |    98          |
+|  Physics     |    93          |
+|  Chemistry   |    88          |
+
+#### To contact me:-
+[Click Here](https://www.instagram.com/aman_veer_9898/)
