@@ -3,6 +3,7 @@ Hello everyone, myself **Amanveer Singh**, I am eighteen years old. I have compl
 My School is ICSE based. My 12 overall percentage is **92%**. My hobbies are cooking and spending quality times with my friends. I have persued Btech Computer Science in
 Guru Nanak Dev Enginnering College, Ludiana.I was the **Head Boy** of my school.
 
+![IMG_6144](https://github.com/user-attachments/assets/5122328d-247b-416e-9b42-d8395b4870c5)
 
 ###### | Class 12
 
