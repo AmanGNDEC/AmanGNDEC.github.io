@@ -17,10 +17,10 @@ Hello everyone, my name is **Amanveer Singh**. I am eighteen years old and I hav
 
 [Click Here](https://amangndec.github.io/learning.github.io/)
 
-#### To contact me:-
-
-[Phone No](+918090374851)
-
+#### Instagram:-
 [Click Here](https://www.instagram.com/aman_veer_9898/)
+
+#### Linkedin:-
+[Click Here](https://www.linkedin.com/in/amanveer-singh-281ab531b/)
 
 ##### Email:- amanveer9898@gmail.com
