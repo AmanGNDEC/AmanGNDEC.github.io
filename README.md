@@ -14,7 +14,13 @@ Hello everyone, my name is **Amanveer Singh**. I am eighteen years old and I hav
 |  Chemistry   |    88          |
 
 #### My experience at GNDEC:-
+
 [Click Here](https://amangndec.github.io/learning.github.io/)
+
 #### To contact me:-
+
+Phone No:- +918090374851
+
 [Click Here](https://www.instagram.com/aman_veer_9898/)
+
 ##### Email:- amanveer9898@gmail.com
