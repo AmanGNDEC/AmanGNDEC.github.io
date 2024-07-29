@@ -13,14 +13,11 @@ Hello everyone, my name is **Amanveer Singh**. I am eighteen years old and I hav
 |  Physics     |    93          |
 |  Chemistry   |    88          |
 
-#### My experience at GNDEC:-
+#### My excel learning:- [Click Here]()
+#### My experience at GNDEC:- [Click Here](https://amangndec.github.io/learning.github.io/)
 
-[Click Here](https://amangndec.github.io/learning.github.io/)
+#### Instagram:- [Click Here](https://www.instagram.com/aman_veer_9898/)
 
-#### Instagram:-
-[Click Here](https://www.instagram.com/aman_veer_9898/)
-
-#### Linkedin:-
-[Click Here](https://www.linkedin.com/in/amanveer-singh-281ab531b/)
+#### Linkedin:- [Click Here](https://www.linkedin.com/in/amanveer-singh-281ab531b/)
 
 ##### Email:- amanveer9898@gmail.com
