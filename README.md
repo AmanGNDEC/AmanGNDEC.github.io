@@ -21,4 +21,4 @@ Hello everyone, my name is **Amanveer Singh**. I am eighteen years old and I hav
 
 #### Linkedin:- [Click Here](https://www.linkedin.com/in/amanveer-singh-281ab531b/)
 
-##### Email:- [Click Here](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKjgCQpGrbWqkRbsxfkmTkTnSrMvClBRlTRBNPldwNKbQxDqxZDdTmrNKfLXDBfFgKCVCXs)
+#### Email:- [Click Here](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKjgCQpGrbWqkRbsxfkmTkTnSrMvClBRlTRBNPldwNKbQxDqxZDdTmrNKfLXDBfFgKCVCXs)
